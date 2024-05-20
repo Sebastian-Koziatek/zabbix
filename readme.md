@@ -1,6 +1,6 @@
 # Zabbix z PostgreSQL przy użyciu Docker Compose
 
-Ten repozytorium zawiera konfigurację Docker Compose do uruchomienia serwera Zabbix z bazą danych PostgreSQL oraz agentem Zabbix.
+To repozytorium zawiera konfigurację Docker Compose do uruchomienia serwera Zabbix z bazą danych PostgreSQL oraz agentem Zabbix.
 
 ## Usługi
 
